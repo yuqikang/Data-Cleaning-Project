@@ -32,4 +32,7 @@ Relational Database Design<br>
 ![](image/price.PNG)<br>
 
 # Workflow
+create a workflow to show data cleaning process in the project<br>
+![](image/workflow.PNG)<br>
+
 
